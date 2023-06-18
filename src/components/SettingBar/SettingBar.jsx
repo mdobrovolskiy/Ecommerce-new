@@ -47,6 +47,9 @@ const SettingBar = () => {
             <div className="whiteCircle"></div>white
           </div>
         </div>
+        <div className="priceBar">
+          <input type="range" />
+        </div>
       </div>
     </div>
   )
